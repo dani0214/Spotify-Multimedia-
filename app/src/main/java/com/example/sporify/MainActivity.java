@@ -19,5 +19,7 @@ public class MainActivity extends AppCompatActivity {
         login=findViewById(R.id.btLogin);
         registro=findViewById(R.id.btRegistrar);
 
+
+
     }
 }
